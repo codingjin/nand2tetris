@@ -22,6 +22,6 @@ Hack Machine Language programming.
 
 Project05
 
-
+Built RAM and CPU, and then assemble them wit ROM together to build a computer.
 
 
