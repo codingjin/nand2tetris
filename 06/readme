@@ -1,0 +1,9 @@
+How to run?
+
+Step1
+make clean;make
+
+Step2
+cat test/Rect.asm | ./scan | ./assembler > Rect.hack
+
+Now you assembler the Rect.asm into the corresponding binarycode Rect.hack

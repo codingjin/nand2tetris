@@ -24,4 +24,8 @@ Project05
 
 Built RAM and CPU, and then assemble them wit ROM together to build a computer.
 
+Project06
+
+Built the Hack Assembler, translating Hack Assembly Code into Hack Machine Code.
+
 
